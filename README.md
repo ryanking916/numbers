@@ -1,8 +1,15 @@
 ## Identifying Information: 
+<<<<<<< HEAD
 1. Name: Ryan King  
 2. Student ID: 2385162
 3. Email: ryanking@chapman.edu
 4. Class: CPSC 298
+=======
+1. Name: Ryan King 
+2. Student ID: 2385162
+3. Email: Ryanking@chapman.edu
+4. Class: CPSC-298-03
+>>>>>>> 97846ab5796edd1914dc6890d4e65daba97e6eec
 5. Assignment: numbers 
 
 ## Application Purpose
